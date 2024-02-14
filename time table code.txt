@@ -1,0 +1,81 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+<body>
+<h1 align="center">TIME TABLE<h1>
+<table border="5px" cell spacing="5px"
+cell padding="10px" align="center">
+<tr align="center"">
+<td>Day-period</td>
+<td><pre>I 
+9:30-10:20</pre> </td>
+<td><pre>II 
+10:20-11:10</pre> </td>
+<td> <pre>III 
+11:10-12:00</pre></td>
+<td>12:00-12:40</td>
+<td> <pre>IV 
+12:40-1:30</pre></td>
+<td> <pre>V 
+1:30-2:20</pre></td>
+<td> <pre>VI 
+2:20-3:10</pre></td>
+<td> <pre>VII 
+3:10-4:00</pre></td>
+</tr>
+<tr align="center" width="4px">
+<td>Monday</td>
+<td>Eng</td>
+<td>Math</td>
+<td>Chem</td>
+<td rowspan="6"><pre>L
+U
+N
+C
+H</pre></td>
+<td colspan="3">LAB</td>
+<td>Play</td>
+</tr>
+<tr align="center" width="4px">
+<td>Tuesday</td>
+<td colspan="3">LAB</td>
+<td>eng</td>
+<td>Chem</td>
+<td>Math</td>
+<td>Sports</td>
+</tr>
+<tr align="center" width="4px">
+<td>Wednsday</td>
+<td>Math</td>
+<td>Play</td>
+<td>Eng</td>
+ <td>Chem</td>
+<td colspan="3">LIBRARY</td>
+</tr>
+<tr align="center" width="4px">
+<td>Thursday</td>
+<td>Play</td>
+<td>Eng</td>
+<td>Chem</td>
+ <td colspan="3">LAB</td>
+<td>Math</td>
+</tr>
+<tr align="center" width="4px">
+<td>Friday</td>
+<td colspan="3">LAB</td> 
+<td>Math</td>
+<td>Chem</td>
+<td>Eng</td>
+<td>Phy</td>
+</tr>
+<tr align="center" width="4px">
+<td>Saturday</td> 
+<td>Eng</td>
+<td>Chem</td>
+<td>Math</td>
+<td colspan="3">SEMINAR</td>
+<td>SPORTS</td>
+</body>
+</html>
